@@ -12,3 +12,4 @@ The desired input can be checked calling
 `awk -f sol_a.awk testinput.txt`
 and the solution can be obtained calling
 `awk -f sol_a.awk input.txt`.
+
